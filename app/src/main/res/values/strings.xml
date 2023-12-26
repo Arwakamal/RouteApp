@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RouteCoursesApp</string>
+    <string name="fullstack_course">FULLSTACK COURSE</string>
+    <string name="full_stack_img">Full Stack Img</string>
+    <string name="html">• HTML</string>
+    <string name="android_course_img">Android Course Img</string>
+    <string name="android_course">ANDROID COURSE</string>
+    <string name="ios_course_img">Ios Course Img</string>
+    <string name="ios_course">IOS COURSE</string>
+    <string name="fullstack_course_img">FullStack Course Img</string>
+    <string name="part_1_java_se">Part 1: Java SE</string>
+    <string name="_1_introduction_to_java_programming">1. Introduction to Java Programming</string>
+    <string name="overview">• Overview.</string>
+    <string name="compiler_and_jvm">• Compiler and JVM</string>
+    <string name="project_structure">• Project Structure</string>
+    <string name="hello_world_application">• Hello World Application</string>
+    <string name="variables_and_data_types">• Variables and Data types</string>
+    <string name="operators">• Operators</string>
+    <string name="conditional_statements_if_switch">• Conditional statements ( IF - Switch)</string>
+    <string name="loops_for_while_do_while">• Loops ( For - While - Do While)</string>
+    <string name="_2_basics">2. Basics</string>
+    <string name="nested_loops">• nested loops</string>
+    <string name="strings">• Strings</string>
+</resources>
